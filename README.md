@@ -1,5 +1,5 @@
 # nut
-funny
+funny for python
 python help code
 help()
 dir()
