@@ -1,4 +1,5 @@
-#nut
+# nut
+
 funny for python 
                  
 help(+函数)输出帮助
