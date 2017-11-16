@@ -4,7 +4,7 @@
               
 - help(+函数)输出帮助
              
-- inspect(+函数)提取函数代码  
+- inspect.getsource(+函数)提取函数代码  
       
 - dir(+函数)输出子函数       
        
