@@ -10,4 +10,7 @@
 	   
 - TAB快捷输出子函数   
 
-- ctrl+shift+u(ctrl+u)在Notepad+中批量切换大小写              
+- ctrl+shift+u(ctrl+u)在Notepad+中批量切换大小写
+        
+- 对文件按shift+右键有可以直接复制路径
+
